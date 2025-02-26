@@ -1,5 +1,6 @@
 # Collective_motions_training
-Orignal code for the "Navigating the swarm: Deep neural networks command emergent behaviors"
+Orignal code for the "Commanding Emergent Behaviors with Neural Networks"
+(Previously "Navigating the swarm: Deep neural networks command emergent behaviors")
 
 ## Environments
 - Python 3.7.0
